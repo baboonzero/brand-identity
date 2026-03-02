@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local env and secrets
+.env
+.env.*
+
+# Local outputs
+brand-output/
+output/
+tmp/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db

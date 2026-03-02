@@ -1,0 +1,4 @@
+interface:
+  display_name: "PM Brand Identity"
+  short_description: "Generate project logos and favicons from repo context"
+  default_prompt: "Use $pm-brand-identity to analyze this repo and generate 3 Gemini logo concepts plus favicon assets."
