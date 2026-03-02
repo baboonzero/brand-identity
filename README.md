@@ -19,7 +19,7 @@ Codex skill for generating project logos and icon packs from repository context 
 - `agents/openai.yaml`: Skill UI metadata.
 - `scripts/`: Automation scripts.
 - `references/`: Prompt framework, asset specs, and publishing checklist.
-- `LICENSE` / `LICENSE.txt`: MIT license text.
+- `LICENSE`: MIT license text.
 
 ## Requirements
 
@@ -71,3 +71,5 @@ python scripts/build_logo_assets.py \
 ## License
 
 MIT. See `LICENSE`.
+
+Created by Anshumani Ruddra.
