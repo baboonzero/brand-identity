@@ -1,4 +1,4 @@
-# PM Brand Identity
+# Brand Identity
 
 Codex skill for generating project logos and icon packs from repository context using Gemini image models.
 
